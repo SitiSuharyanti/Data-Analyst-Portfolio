@@ -20,7 +20,7 @@ Covers revenue, customer segmentation, retention, and sales performance.
 
 ---
 
-### 2. Chinook Tableau Dashboard - CHECK
+### 2. Chinook Tableau Dashboard
 
 Interactive dashboard built on Chinook music store data.
 
