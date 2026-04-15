@@ -13,6 +13,7 @@ SQL analysis of a digital music store using PostgreSQL.
 Covers revenue, customer segmentation, retention, and sales performance.
 
 **Tools:** PostgreSQL · pgAdmin
+
 **Skills:** JOIN, CTEs, Window Functions, Business Analytics
 
 👉 [View Project](https://github.com/SitiSuharyanti/chinook-sql-analysis)
@@ -24,6 +25,7 @@ Covers revenue, customer segmentation, retention, and sales performance.
 Interactive dashboard built on Chinook music store data.
 
 **Tools:** Tableau Public
+
 **Skills:** Data visualization, Dashboard design, Calculated fields, Customer segmentation
 
 👉 [View Project](https://github.com/SitiSuharyanti/Chinook-Tableau-Visualization)
@@ -36,6 +38,7 @@ Comparison of Naïve Bayes and SVM algorithms for sentiment analysis of Twitter 
 Covers data scraping, text preprocessing, model building, and evaluation.
 
 **Tools:** Python · Google Colab · scikit-learn
+
 **Skills:** NLP, TF-IDF, SMOTE, Naïve Bayes, SVM, Model Evaluation
 
 👉 [View Project](https://github.com/SitiSuharyanti/sentiment-analysis)
