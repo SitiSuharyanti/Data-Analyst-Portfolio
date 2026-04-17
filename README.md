@@ -20,13 +20,13 @@ Covers revenue, customer segmentation, retention, and sales performance.
 
 ---
 
-### 2. Chinook Tableau Dashboard
+### 2. Chinook Music Store - Revenue & Sales Analysis
 
-Interactive dashboard built on Chinook music store data.
+Interactive Tableau dashboard analyzing revenue trends, customer behavior, and music performance across 2 dashboards and 8 charts.
 
 **Tools:** Tableau Public
 
-**Skills:** Data visualization, Dashboard design, Calculated fields, Customer segmentation
+**Skills:** Data visualization, Dashboard design, Customer segmentation, Geographic analysis, Sales performance analysis
 
 👉 [View Project](https://github.com/SitiSuharyanti/Chinook-Tableau-Visualization)
 
@@ -54,7 +54,7 @@ Covers data scraping, text preprocessing, model building, and evaluation.
 | **Visualization**         | Tableau, matplotlib, seaborn, WordCloud                         |
 | **NLP & Text processing** | demoji, Sastrawi, NLTK (tokenizing, stopword removal, stemming) |
 | **Data manipulation**     | pandas, numpy                                                   |
-| **Machine learning**      | scikit-learn — Naïve Bayes, Support Vector Machine (SVM)        |
+| **Machine learning**      | scikit-learn - Naïve Bayes, Support Vector Machine (SVM)        |
 | **Feature extraction**    | TF-IDF                                                          |
 | **Imbalanced data**       | SMOTE                                                           |
 | **Model tuning**          | GridSearchCV, cross_val_score                                   |
