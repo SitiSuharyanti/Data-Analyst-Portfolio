@@ -16,7 +16,7 @@ Covers revenue, customer segmentation, retention, and sales performance.
 
 **Skills:** JOIN, CTEs, Window Functions, Business Analytics
 
-👉 [View Project](https://github.com/SitiSuharyanti/chinook-sql-analysis)
+[View Project](https://github.com/SitiSuharyanti/chinook-sql-analysis)
 
 ---
 
@@ -28,7 +28,7 @@ Interactive Tableau dashboard analyzing revenue trends, customer behavior, and m
 
 **Skills:** Data visualization, Dashboard design, Customer segmentation, Geographic analysis, Sales performance analysis
 
-👉 [View Project](https://github.com/SitiSuharyanti/Chinook-Tableau-Visualization)
+[View Project](https://github.com/SitiSuharyanti/Chinook-Tableau-Visualization)
 
 ---
 
@@ -41,7 +41,7 @@ Covers data scraping, text preprocessing, model building, and evaluation.
 
 **Skills:** NLP, TF-IDF, SMOTE, Naïve Bayes, SVM, Model Evaluation
 
-👉 [View Project](https://github.com/SitiSuharyanti/sentiment-analysis)
+[View Project](https://github.com/SitiSuharyanti/sentiment-analysis)
 
 ---
 
