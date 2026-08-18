@@ -38,30 +38,13 @@ An interactive Tableau dashboard exploring revenue trends, customer segmentation
  
 [View Project](https://github.com/SitiSuharyanti/Chinook-Tableau-Visualization) · [View Live Dashboard](https://public.tableau.com/app/profile/siti.suharyanti/viz/ChinookMusicStore/RevenueOverview)
 
-### 4. Sentiment Analysis of Tweets towards PT Esteh Indonesia Makmur
- 
-A comparison of Naïve Bayes and SVM for classifying public sentiment on Twitter (X) surrounding the Esteh Indonesia somasi controversy. Covers data scraping, text preprocessing, model building, and evaluation. Developed as part of an undergraduate thesis.
- 
-**Dataset:** Tweets collected via snscrape using keywords "es teh indonesia" and "somasi" (September 24–30, 2022)
- 
-**Tools:** Python, Google Colab, scikit-learn
- 
-**Skills:** NLP, TF-IDF, SMOTE, Naïve Bayes, SVM, model evaluation
- 
-[View Project](https://github.com/SitiSuharyanti/sentiment-analysis)
-
 ## Skills
  
 | Category | Skills |
 |---|---|
 | Database | PostgreSQL, views, joins, CTEs, aggregations, window functions |
 | Programming | Python |
-| Visualization | Tableau, Power BI, DAX, matplotlib, seaborn, WordCloud |
-| Data cleaning | pandas, numpy |
-| NLP & text processing | Sastrawi, demoji, tokenizing, stopword removal, stemming |
-| Machine learning | scikit-learn, Naïve Bayes, SVM |
-| Feature extraction | TF-IDF |
-| Imbalanced data | SMOTE |
-| Model evaluation | Accuracy, precision, recall, F1-score, AUC-ROC, AUC-PR |
+| Visualization | Power BI, DAX, Tableau |
+| Data Analysis | pandas, exploratory data analysis, data cleaning |
 | Business communication | Cohort retention analysis, executive memo writing, dashboard storytelling |
 | Version control | Git, GitHub |
