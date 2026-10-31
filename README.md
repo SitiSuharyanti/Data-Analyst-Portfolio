@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Hi, I'm Siti Suharyanti, an aspiring junior data analyst. This repository is a collection of my data projects covering SQL, data visualization, dashboarding, and machine learning.
+Hi, I'm Siti Suharyanti, an aspiring junior data analyst. This repository is a collection of my data projects covering Excel, SQL, data visualization, and machine learning.
 
 ## Projects
 
@@ -16,7 +16,19 @@ A full-cycle analysis of customer retention and revenue performance for a Brazil
  
 [View Project](https://github.com/SitiSuharyanti/ecommerce_customer_retention_and_revenue_analysis)
 
-### 2. Chinook Music Store - SQL Analysis
+### 2. US Regional Sales Analysis - Excel Dashboard
+ 
+An Excel analysis of 7,991 US sales orders. It looks at where the profit comes from (channels, products, customers, warehouses, and sales teams), whether discounts help or hurt, how sales change over time, and how fast orders are delivered. The workbook has summary tables, PivotTables, an interactive dashboard with slicers, 9 data checks, and a short business memo.
+ 
+**Dataset:** 7,991 orders · 4 sales channels · 47 products · 50 customers · 6 warehouses · 2018–2020
+ 
+**Tools:** Excel (Power Query, Excel Tables, PivotTables, Pivot Charts, slicers) with formulas like SUMIFS, COUNTIFS, AVERAGEIFS, SUMPRODUCT, INDEX MATCH, LARGE, PERCENTILE, SORT, XLOOKUP, IF, and IFERROR
+ 
+**Skills:** Data cleaning, Excel formulas, PivotTables and dashboard design, data validation, business writing
+ 
+[View Project](https://github.com/SitiSuharyanti/Excel-US-Regional-Sales-Dashboard-and-Analysis.git)
+
+### 3. Chinook Music Store - SQL Analysis
  
 A business-focused SQL analysis of a digital music store using the Chinook database. The project answers business questions across 6 progressive levels, from basic exploration to advanced analytics, using PostgreSQL.
  
@@ -28,7 +40,7 @@ A business-focused SQL analysis of a digital music store using the Chinook datab
  
 [View Project](https://github.com/SitiSuharyanti/chinook-sql-analysis)
 
-### 3. Chinook Music Store - Revenue & Music Performance Analysis
+### 4. Chinook Music Store - Tableau Visualization
  
 An interactive Tableau dashboard exploring revenue trends, customer segmentation, and music genre performance of the Chinook digital music store across two dashboards.
  
@@ -39,12 +51,13 @@ An interactive Tableau dashboard exploring revenue trends, customer segmentation
 [View Project](https://github.com/SitiSuharyanti/Chinook-Tableau-Visualization) · [View Live Dashboard](https://public.tableau.com/app/profile/siti.suharyanti/viz/ChinookMusicStore/RevenueOverview)
 
 ## Skills
- 
+
 | Category | Skills |
-|---|---|
+| --- | --- |
+| Spreadsheet | Excel, Power Query, PivotTables, slicers, SUMIFS, XLOOKUP, INDEX MATCH |
 | Database | PostgreSQL, views, joins, CTEs, aggregations, window functions |
 | Programming | Python |
-| Visualization | Power BI, DAX, Tableau |
-| Data Analysis | pandas, exploratory data analysis, data cleaning |
+| Visualization | Power BI, DAX, Tableau, Excel dashboards |
+| Data analysis | pandas, exploratory data analysis, data cleaning |
 | Business communication | Cohort retention analysis, executive memo writing, dashboard storytelling |
 | Version control | Git, GitHub |
