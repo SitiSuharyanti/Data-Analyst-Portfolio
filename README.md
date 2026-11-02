@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Hi, I'm Siti Suharyanti, an aspiring junior data analyst. This repository is a collection of my data projects covering Excel, SQL, data visualization, and machine learning.
+Hi, I'm Siti Suharyanti, an aspiring junior data analyst. This repository is a collection of my data projects covering Python, Excel, SQL, and data visualization (Power BI, Tableau, Excel dashboard).
 
 ## Projects
 
@@ -24,7 +24,7 @@ An Excel analysis of 7,991 US sales orders. It looks at where the profit comes f
  
 **Tools:** Excel (Power Query, Excel Tables, PivotTables, Pivot Charts, slicers) with formulas like SUMIFS, COUNTIFS, AVERAGEIFS, SUMPRODUCT, INDEX MATCH, LARGE, PERCENTILE, SORT, XLOOKUP, IF, and IFERROR
  
-**Skills:** Data cleaning, Excel formulas, PivotTables and dashboard design, data validation, business writing
+**Skills:** Excel formulas, PivotTables and dashboard design, data validation, business writing
  
 [View Project](https://github.com/SitiSuharyanti/Excel-US-Regional-Sales-Dashboard-and-Analysis.git)
 
@@ -46,7 +46,7 @@ An interactive Tableau dashboard exploring revenue trends, customer segmentation
  
 **Tools:** Tableau Public
  
-**Skills:** Data visualization, dashboard design, customer segmentation, sales performance analysis
+**Skills:** Data visualization, dashboard design, customer segmentation, music performance
  
 [View Project](https://github.com/SitiSuharyanti/Chinook-Tableau-Visualization) · [View Live Dashboard](https://public.tableau.com/app/profile/siti.suharyanti/viz/ChinookMusicStore/RevenueOverview)
 
@@ -59,5 +59,5 @@ An interactive Tableau dashboard exploring revenue trends, customer segmentation
 | Programming | Python |
 | Visualization | Power BI, DAX, Tableau, Excel dashboards |
 | Data analysis | pandas, exploratory data analysis, data cleaning |
-| Business communication | Cohort retention analysis, executive memo writing, dashboard storytelling |
+| Business communication | Cohort retention analysis, memo writing, dashboard storytelling |
 | Version control | Git, GitHub |
